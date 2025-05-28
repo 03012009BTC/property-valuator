@@ -1,0 +1,14 @@
+{
+  "Bratislava": {
+    "Byt": 3100,
+    "Dom": 2700,
+    "Pozemok": 190,
+    "Komerčný priestor": 2100
+  },
+  "Košice": {
+    "Byt": 2200,
+    "Dom": 1800,
+    "Pozemok": 110,
+    "Komerčný priestor": 1700
+  }
+}
